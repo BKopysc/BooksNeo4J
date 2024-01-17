@@ -1,0 +1,173 @@
+﻿ID,FictionWork,FictionWorkAuthor,FictionWorkYear,FirstFilmAdaptation,FilmAdaptationYear,bookID
+8,About a Boy,Nick Hornby,1998.0,About a Boy,2002.0,4273
+23,Adventures of Huckleberry Finn,Mark Twain,1884.0,Huckleberry Finn,1920.0,2958
+62,The Adventures of Sherlock Holmes,,,Sherlock Holmes,1916.0,4465
+94,After the Funeral,Agatha Christie,1953.0,Murder at the Gallop,1963.0,16340
+99,The Agony and the Ecstasy,Irving Stone,1961.0,The Agony and the Ecstasy,1965.0,40478
+115,All the King's Men,Robert Penn Warren,1946.0,All the King's Men,1949.0,5527
+138,American Psycho,Bret Easton Ellis,1991.0,American Psycho,2000.0,4023
+143,Amerika,Franz Kafka,1927.0,Klassenverhältnisse (Class Relations),1984.0,22911
+154,And Then There Were None,Agatha Christie,1939.0,And Then There Were None,1945.0,16299
+175,The Angry Hills,Leon Uris,1955.0,The Angry Hills,1959.0,42695
+234,Arrowsmith,Sinclair Lewis,1925.0,Arrowsmith,1931.0,11389
+252,Atonement,Ian McEwan,2001.0,Atonement,2007.0,9961
+268,Back When We Were Grownups,Anne Tyler,2001.0,Back When We Were Grownups,2004.0,31178
+288,Battle Cry,Leon Uris,1953.0,Battle Cry,1955.0,42694
+338,Beloved,Toni Morrison,1987.0,Beloved,1998.0,6149
+391,Black Beauty,Anna Sewell,1877.0,Your Obedient Servant,1917.0,3685
+485,Brave New World,Aldous Huxley,1932.0,Brave New World,1980.0,5129
+498,Bridge to Terabithia,Katherine Paterson,1977.0,Bridge to Terabithia,1985.0,2836
+539,The Call of the Wild,Jack London,1903.0,The Call of the Wild,1935.0,1852
+565,Carrie,Stephen King,1974.0,Carrie,1976.0,10622
+569,A Case of Need,Michael Crichton,1968.0,The Carey Treatment,1972.0,7663
+572,Casino Royale,Ian Fleming,1953.0,Casino Royale,1967.0,5821
+580,Catch-22,Joseph Heller,1961.0,Catch-22,1970.0,4610
+584,The Cement Garden,Ian McEwan,1978.0,The Cement Garden,1993.0,9957
+611,Christine,Stephen King,1983.0,Christine,1983.0,10629
+641,The Client,John Grisham,1993.0,The Client,1994.0,5359
+643,A Clockwork Orange,Anthony Burgess,1962.0,Vinyl,1965.0,8810
+654,Cold Mountain,Charles Frazier,1997.0,Cold Mountain,2003.0,10920
+657,The Color Purple,Alice Walker,1982.0,The Color Purple,1985.0,11486
+662,The Comfort of Strangers,Ian McEwan,1981.0,The Comfort of Strangers,1990.0,6872
+671,Congo,Michael Crichton,1980.0,Congo,1995.0,7672
+728,The Da Vinci Code,Dan Brown,2003.0,The Da Vinci Code,2006.0,969
+746,Daniel Deronda,George Eliot,1876.0,Daniel Deronda,1921.0,27456
+750,The Dark Is Rising Sequence,Susan Cooper,1965.0,The Seeker,2007.0,24958
+781,Dear John,Nicholas Sparks,2006.0,Dear John,2010.0,5526
+843,Le Divorce,Diane Johnson,1997.0,Le Divorce,2003.0,6644
+894,Dracula,Bram Stoker,1897.0,Dracula's Death (Hungarian: Drakula halála),1923.0,17236
+950,The Dream Master,Roger Zelazny,1966.0,Dreamscape,1984.0,16647
+951,Dreamcatcher,Stephen King,2001.0,Dreamcatcher,2003.0,11570
+964,The Dying Animal,Philip Roth,2001.0,Elegy,2008.0,29776
+969,East of Eden,John Steinbeck,1952.0,East of Eden,1955.0,4408
+970,Eaters of the Dead,Michael Crichton,1976.0,The 13th Warrior,1999.0,7673
+973,Election,Tom Perrotta,1998.0,Election,1999.0,28282
+976,Elmer Gantry,Sinclair Lewis,1927.0,Elmer Gantry,1960.0,11378
+980,Emma,Jane Austen,1815.0,Emma,1996.0,6969
+994,The End of the Affair,Graham Greene,1951.0,The End of the Affair,1955.0,29641
+998,Enduring Love,Ian McEwan,1997.0,Enduring Love,2004.0,6870
+1013,Everything Is Illuminated,Jonathan Safran Foer,2002.0,Everything Is Illuminated,2005.0,4583
+1023,Exodus,Leon Uris,1958.0,Exodus,1960.0,42697
+1031,Extremely Loud and Incredibly Close,Jonathan Safran Foer,2005.0,Extremely Loud and Incredibly Close,2012.0,4588
+1037,Fahrenheit 451,Ray Bradbury,1953.0,Fahrenheit 451,1966.0,4382
+1043,Falling Angel,William Hjortsberg,1978.0,Angel Heart,1987.0,12787
+1048,Far from the Madding Crowd,Thomas Hardy,1874.0,Far from the Madding Crowd,1915.0,31462
+1053,A Farewell to Arms,Ernest Hemingway,1929.0,A Farewell to Arms,1932.0,10796
+1067,Fear and Loathing in Las Vegas,Hunter S. Thompson,1971.0,Fear and Loathing in Las Vegas,1998.0,7747
+1072,Fever Pitch,Nick Hornby,1992.0,Fever Pitch,1997.0,4264
+1078,Fight Club,Chuck Palahniuk,1996.0,Fight Club,1999.0,5759
+1089,The Firm,John Grisham,1991.0,The Firm,1993.0,5358
+1104,The Five People You Meet in Heaven,Mitch Albom,2003.0,The Five People You Meet in Heaven,2004.0,3431
+1109,The Fixer,Bernard Malamud,1966.0,The Fixer,1968.0,3066
+1129,For Whom the Bell Tolls,Ernest Hemingway,1940.0,For Whom the Bell Tolls,1943.0,42425
+1133,Forever Amber,Kathleen Winsor,1944.0,Forever Amber,1947.0,5368
+1137,The Fountainhead,Ayn Rand,1943.0,The Fountainhead,1949.0,664
+1258,Girl with a Pearl Earring,Tracy Chevalier,1999.0,Girl with a Pearl Earring,2003.0,2864
+1271,The Godfather,Mario Puzo,1969.0,The Godfather,1972.0,22036
+1285,Gone with the Wind,Margaret Mitchell,1936.0,Gone with the Wind,1939.0,18405
+1295,The Grapes of Wrath,John Steinbeck,1939.0,The Grapes of Wrath,1940.0,4397
+1308,The Great Gatsby,F. Scott Fitzgerald,1925.0,The Great Gatsby,1926.0,4673
+1322,The Green Mile,Stephen King,1996.0,The Green Mile,1999.0,11566
+1329,The Grotesque,Patrick McGrath,1989.0,The Grotesque (1995),1995.0,23022
+1330,The Group,Mary McCarthy,1963.0,The Group,1966.0,11295
+1332,Gulliver's Travels,Jonathan Swift,1726.0,Gulliver's Travels (German: Gullivers Reisen),1924.0,7733
+1356,The Hamlet,William Faulkner,1940.0,"The Long, Hot Summer",1958.0,12995
+1359,The Handmaid's Tale,Margaret Atwood,1985.0,The Handmaid's Tale,1990.0,5102
+1384,Hawaii,James A. Michener,1959.0,Hawaii,1966.0,12658
+1391,The Heart of the Matter,Graham Greene,1948.0,The Heart of the Matter,1953.0,3692
+1413,Hell House,Richard Matheson,1971.0,The Legend of Hell House,1973.0,33547
+1420,High Fidelity,Nick Hornby,1995.0,High Fidelity,2000.0,4267
+1467,The Hound of the Baskervilles,,,The Hound of the Baskervilles (German: Der Hund von Baskerville),1914.0,8921
+1489,How Green Was My Valley,Richard Llewellyn,1939.0,How Green Was My Valley,1941.0,40496
+1538,I Am Legend,Richard Matheson,1954.0,The Last Man on Earth,1964.0,14064
+1552,The Illustrated Man,Ray Bradbury,1951.0,The Illustrated Man,1968.0,24832
+1590,Islands in the Stream,Ernest Hemingway,1970.0,Islands in the Stream,1977.0,4633
+1593,It Can't Happen Here,Sinclair Lewis,1935.0,Shadow on the Land (a.k.a. United States: It Can't Happen Here) (1968),1968.0,11371
+1606,Jane Eyre,Charlotte Brontë,1847.0,Jane Eyre,1910.0,10210
+1689,The Joy Luck Club,Amy Tan,1989.0,The Joy Luck Club,1993.0,7763
+1694,The Jungle,Upton Sinclair,1906.0,The Jungle,1914.0,41681
+1695,The Jungle Books,Rudyard Kipling,1894.0,Elephant Boy,1937.0,41684
+1710,Jurassic Park,Michael Crichton,1990.0,Jurassic Park,1993.0,22082
+1743,The Killer Angels,Michael Shaara,1974.0,Gettysburg,1993.0,44470
+1810,The Last Days of Pompeii,Edward Bulwer-Lytton,1834.0,The Last Days of Pompeii (Italian: Gli ultimi giorni di Pompei),1908.0,888
+1842,The Last Unicorn,Peter S. Beagle,1968.0,The Last Unicorn,1982.0,29128
+1929,Lolita,Vladimir Nabokov,1955.0,Lolita,1962.0,7608
+1942,Lord of the Flies,William Golding,1954.0,Lord of the Flies,1963.0,524
+1951,Lost Horizon,James Hilton,1933.0,Lost Horizon,1937.0,2978
+1966,The Lovely Bones,Alice Sebold,2002.0,The Lovely Bones,2009.0,537
+1977,The Maltese Falcon,Dashiell Hammett,1930.0,The Maltese Falcon,1931.0,29999
+2019,The Memoirs of Cleopatra,Margaret George,1997.0,Cleopatra,1999.0,10115
+2026,Message in a Bottle,Nicholas Sparks,1998.0,Message in a Bottle,1999.0,3471
+2045,Les Misérables,Victor Hugo,1862.0,On the Barricade,1907.0,24281
+2095,Misery,Stephen King,1987.0,Misery,1990.0,10614
+2099,Moby-Dick,Herman Melville,1851.0,The Sea Beast,1926.0,2388
+2114,Moonraker,Ian Fleming,1955.0,Moonraker,1979.0,19496
+2116,The Moonstone,Wilkie Collins,1868.0,The Moonstone,1909.0,6138
+2125,Mother Night,Kurt Vonnegut,1961.0,Mother Night,1996.0,9592
+2166,Mystic River,Dennis Lehane,2001.0,Mystic River,2003.0,21671
+2167,The Naked and the Dead,Norman Mailer,1948.0,The Naked and the Dead,1958.0,12467
+2170,Naked Lunch,William S. Burroughs,1959.0,Naked Lunch,1991.0,7437
+2177,The Natural,Bernard Malamud,1952.0,The Natural,1984.0,685
+2194,Night Has a Thousand Eyes,Cornell Woolrich,1945.0,Night Has a Thousand Eyes,1948.0,45337
+2205,Nights in Rodanthe,Nicholas Sparks,2002.0,Nights in Rodanthe,2008.0,3469
+2210,Nineteen Eighty-Four,George Orwell,1949.0,Nineteen Eighty-Four,1954.0,5471
+2215,No Country for Old Men,Cormac McCarthy,2005.0,No Country for Old Men,2007.0,12497
+2239,Of Human Bondage,W. Somerset Maugham,1915.0,Of Human Bondage,1934.0,31548
+2242,Of Mice and Men,John Steinbeck,1937.0,Of Mice and Men,1939.0,890
+2280,One Flew Over the Cuckoo's Nest,Ken Kesey,1962.0,One Flew Over the Cuckoo's Nest,1975.0,11225
+2303,The Other Boleyn Girl,Philippa Gregory,2001.0,The Other Boleyn Girl (2003),2003.0,31084
+2315,A Painted House,John Grisham,2001.0,A Painted House,2003.0,5360
+2328,The Pelican Brief,John Grisham,1992.0,The Pelican Brief,1993.0,32499
+2334,Pet Sematary,Stephen King,1983.0,Pet Sematary,1989.0,10583
+2435,The Power and the Glory,Graham Greene,1940.0,The Fugitive,1947.0,3690
+2438,Pride and Prejudice,Jane Austen,1813.0,Pride and Prejudice,1940.0,1888
+2463,The Prince of Tides,Pat Conroy,1986.0,The Prince of Tides,1991.0,16735
+2464,The Princess Bride,William Goldman,1973.0,The Princess Bride,1987.0,21787
+2500,The Quiet American,Graham Greene,1955.0,The Quiet American,1958.0,3698
+2512,The Rainmaker,John Grisham,1995.0,The Rainmaker,1997.0,5349
+2520,The Razor's Edge,W. Somerset Maugham,1944.0,The Razor's Edge,1946.0,31196
+2524,Rebecca,Daphne du Maurier,1938.0,Rebecca,1940.0,12873
+2539,Rendezvous in Black,Cornell Woolrich,1948.0,Seven Blood-Stained Orchids,1972.0,45338
+2550,The Return of the Native,Thomas Hardy,1878.0,The Return of the Native,1994.0,32650
+2574,Rising Sun,Michael Crichton,1992.0,Rising Sun,1993.0,7668
+2575,The River,Rumer Godden,1946.0,The River,1951.0,3798
+2578,The Road,Cormac McCarthy,2006.0,The Road,2009.0,6288
+2582,Robinson Crusoe,Daniel Defoe,1719.0,Robinson Crusoe,1916.0,2933
+2631,The Rules of Attraction,Bret Easton Ellis,1987.0,The Rules of Attraction,2002.0,9912
+2633,The Runaway Jury,John Grisham,1996.0,Runaway Jury,2003.0,24192
+2648,'Salem's Lot,Stephen King,1975.0,Salem's Lot,1979.0,5413
+2652,Sanctuary,William Faulkner,1931.0,The Story of Temple Drake,1933.0,18789
+2664,Sayonara,James A. Michener,1954.0,Sayonara,1957.0,42956
+2665,A Scanner Darkly,Philip K. Dick,1977.0,A Scanner Darkly,2006.0,14817
+2671,The Scarlet Letter,Nathaniel Hawthorne,1850.0,The Scarlet Letter,1908.0,12296
+2712,The Secret Life of Bees,Sue Monk Kidd,2002.0,The Secret Life of Bees,2008.0,7220
+2713,Sense and Sensibility,Jane Austen,1811.0,Sense and Sensibility,1995.0,14934
+2752,The Shining,Stephen King,1977.0,The Shining,1980.0,10593
+2761,Shutter Island,Dennis Lehane,2003.0,Shutter Island,2010.0,21686
+2762,Sideways,Rex Pickett,2004.0,Sideways,2004.0,15781
+2775,Skipping Christmas,John Grisham,2001.0,Christmas with the Kranks,2004.0,5357
+2777,Slaughterhouse-Five,Kurt Vonnegut,1969.0,Slaughterhouse-Five,1972.0,4981
+2792,Something Wicked This Way Comes,Ray Bradbury,1962.0,Something Wicked This Way Comes,1972.0,11390
+2804,The Sound and the Fury,William Faulkner,1929.0,The Sound and the Fury,1959.0,17176
+2837,Stardust,Neil Gaiman,1999.0,Stardust,2007.0,16793
+2841,Starship Troopers,Robert A. Heinlein,1959.0,Starship Troopers,1997.0,17214
+2866,Strangers on a Train,Patricia Highsmith,1950.0,Strangers on a Train,1951.0,15677
+2870,Strip Tease,Carl Hiaasen,1993.0,Striptease,1996.0,13074
+2874,The Sun Also Rises,Ernest Hemingway,1926.0,The Sun Also Rises,1957.0,3875
+2898,A Tale of Two Cities,Charles Dickens,1859.0,A Tale of Two Cities,1917.0,1955
+2965,The Terminal Man,Michael Crichton,1972.0,The Terminal Man,1974.0,7679
+3065,The Time Traveler's Wife,Audrey Niffenegger,2003.0,The Time Traveler's Wife,2009.0,14046
+3073,To Kill a Mockingbird,Harper Lee,1960.0,To Kill a Mockingbird,1962.0,2654
+3093,Treasure Island,Robert Louis Stevenson,1883.0,Treasure Island,1918.0,295
+3119,The Trial,Franz Kafka,1925.0,The Trial,1962.0,17690
+3183,Vanity Fair,William Makepeace Thackeray,1847.0,Vanity Fair,1911.0,5797
+3227,A Walk to Remember,Nicholas Sparks,1999.0,A Walk to Remember,2002.0,3473
+3235,War and Peace,Leo Tolstoy,1869.0,War and Peace,1956.0,656
+3251,Water for Elephants,Sara Gruen,2006.0,Water for Elephants,2011.0,43641
+3268,What Dreams May Come,Richard Matheson,1978.0,What Dreams May Come,1998.0,33555
+3285,White Fang,Jack London,1906.0,White Fang,1925.0,43035
+3309,Wide Sargasso Sea,Jean Rhys,1966.0,Wide Sargasso Sea,1993.0,44595
+3323,The Wind in the Willows,Kenneth Grahame,1908.0,The Adventures of Ichabod and Mr. Toad,1949.0,5659
+3355,The Winter of Our Discontent,John Steinbeck,1961.0,The Winter of Our Discontent,1983.0,4796
+3371,The Woman in Black,Susan Hill,1983.0,The Woman in Black,1989.0,37034
+3418,Wuthering Heights,Emily Brontë,1847.0,Wuthering Heights,1939.0,6184
