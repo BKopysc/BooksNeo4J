@@ -8,4 +8,4 @@ Files and Python scripts wchich were used do get final cleaned data
 Queries for graph database
 
 ## procedure_plugin
-Plugin .jar and procedure code
+Plugin .jar and procedure code. Plugin is called *"procedure-template-1.0.0-SNAPSHOT.jar"*
