@@ -2,8 +2,8 @@
   // Define the file path root and the individual file names required for loading.
   // https://neo4j.com/docs/operations-manual/current/configuration/file-locations/
   file_path_root: 'file:///', // Change this to the folder your script can access the files at.
-  file_0: 'books_data.csv',
-  file_1: 'adaptation_table_fixed.csv',
+  file_0: 'books_data_r.csv',
+  file_1: 'adaptations_bookId.csv',
   file_2: 'ratings.csv',
   file_3: 'authors.csv',
   file_4: 'books_authors.csv'
@@ -119,8 +119,8 @@ CALL {
   WITH row
   MERGE (n: `First Film` { `id`: row.`ID` })
   SET n.`id` = row.`ID`
-  SET n.`title` = row.`First film adaptation`
-  SET n.`yearOfProduction` = toInteger(trim(row.`Film adaptation year`))
+  SET n.`title` = row.`FirstFilmAdaptation`
+  SET n.`yearOfProduction` = toInteger(trim(row.`FilmAdaptationYear`))
 } IN TRANSACTIONS OF 10000 ROWS;
 
 
@@ -171,4 +171,13 @@ CALL {
   MATCH (source: `Publication` { `isbn`: row.`isbn` })
   MATCH (target: `Language` { `codeName`: row.`language_code` })
   MERGE (source)-[r: `WRITTEN_IN`]->(target)
+} IN TRANSACTIONS OF 10000 ROWS;
+
+LOAD CSV WITH HEADERS FROM ($file_path_root + $file_1) AS row
+WITH row 
+CALL {
+  WITH row
+  MATCH (source: `First Film` { `id`: row.`ID` })
+  MATCH (target: `Book` { `id`: row.`bookID` })
+  MERGE (source)-[r: `ADAPTED`]->(target)
 } IN TRANSACTIONS OF 10000 ROWS;
